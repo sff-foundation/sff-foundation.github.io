@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "SFF Data Portal"
-title_separator          : "-"
-subtitle                 : "A Neighborhood Profile"# site tagline that appears below site title in masthead
+title                    : "North Lawndale | A Neighborhood Profile"
+title_separator          : "|"
+subtitle                 : #"A Neighborhood Profile"# site tagline that appears below site title in masthead
 name                     : "Steans Family Foundation"
 description              : "An Data-based Profile of Chicago's North Lawndale Neighborhood."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Steans Family Foundation"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "The Steans Family Foundation (SFF) dedicates time, resources, and skills within the North Lawndale community, located on Chicago’s west side, and the North Chicago community, a city just south of Waukegan, 40 miles north of downtown Chicago. SFF believes effective revitalization can occur within the existing social, educational, and economic networks that create and sustain communities. SFF believes that with investment, coupled with a strong policy ecosystem, communities can thrive."
+  location         : "50 E Washington St, Chicago, IL 60602"
   email            :
   links:
     - label: "Email"
