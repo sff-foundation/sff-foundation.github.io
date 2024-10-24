@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sff-foundation/sff-foundation.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/SFF Logo-SeeThru.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "North Lawndale Profile"# overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : #"North Lawndale Profile"# overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Steans Family Foundation"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The Steans Family Foundation (SFF) dedicates time, resources, and skills within the North Lawndale community, located on Chicago’s west side, and the North Chicago community, a city just south of Waukegan, 40 miles north of downtown Chicago. SFF believes effective revitalization can occur within the existing social, educational, and economic networks that create and sustain communities. SFF believes that with investment, coupled with a strong policy ecosystem, communities can thrive."
-  location         : "50 E Washington St, Chicago, IL 60602"
+  bio              : "The Steans Family Foundation (SFF) dedicates time, resources, and skills within the North Lawndale community, located on Chicago’s west side. SFF believes effective revitalization can occur within the existing social, educational, and economic networks that create and sustain communities. SFF believes that with investment, coupled with a strong policy ecosystem, communities can thrive."
+  location         : "50 E Washington St, Chicago, IL"
   email            :
   links:
     - label: "Email"
