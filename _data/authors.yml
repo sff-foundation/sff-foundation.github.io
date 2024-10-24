@@ -1,0 +1,14 @@
+Jeff Sternberg:
+  name        : "Jeff Sternberg"
+  bio         : "Director of Research & Evaluation | North Lawndale."
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jsternberg@steansfamilyfoundation.org"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
