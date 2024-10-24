@@ -10,4 +10,4 @@ tags:
 
 
 ## North Lawndale - Economic Development Map
-<iframe src="\assets\maps\nl_econ_dev_map.html" height="700" width="1000"></iframe>
+<iframe src="/assets/maps/nl_econ_dev_map.html" height="700" width="1000"></iframe>
