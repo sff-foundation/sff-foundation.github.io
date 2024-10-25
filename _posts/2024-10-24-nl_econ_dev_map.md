@@ -1,7 +1,7 @@
 ---
 title:  "Map of Current Economic Development Footprint in North Lawndale"
 header:
-  teaser: "/assets/image/econ_dev_thumbnail.png"
+  teaser: "/assets/images/econ_dev_thumbnail.png"
 categories: 
   #- Jekyll
 tags:
