@@ -7,6 +7,7 @@ categories:
 tags:
   #- update
 ---
+The following map was created for the purpose of identifying all contiguous city-owned lots in North Lawndale that could potentially host the potential development of a community center and baseball fields by the Chicago Cubs, a site requiring 12-14 acres of contiguous land. The map has two layers, one containing the individual parcels currently owned by the City of Chicago for acquisition, and the accompanying layer which merges and aggregates any lots that touch and are contiguous providing area measures in acres.
 
 # City Owned Parcels Map
 Two map Layers:
