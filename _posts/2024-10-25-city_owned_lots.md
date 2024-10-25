@@ -15,4 +15,6 @@ Two map Layers:
 - Merged Parcels
   - Layer of above individual parcels merged if they were touching. Provides area in acres of merged parcels to help identify large groupings of publicly owned city parcels for development.    
 
-<iframe src="assets/maps/city_owned.html" height="700" width="1000"></iframe>
+
+
+<iframe src="/assets/maps/city_owned.html" height="700" width="1000"></iframe>
