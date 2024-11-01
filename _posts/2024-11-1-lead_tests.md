@@ -13,7 +13,7 @@ Chicago (387,000), Cleveland (235,000), New York City (112,000), Detroit (80,000
 
 A 2022 analysis of The City of Chicago’s Lead Water Testing program data revealed that, out of 24,000 tests, 1000 had lead levels exceeding federal standards for tap water of 15 ppb,1/3 exceeded bottled water standards of 5ppb, and 71% exceeded drinking fountain standards of 1ppb.
 
-<img alt="Lead Testing Levels" src="/assets/maps/nl_home_lead_level_definitions.png" />
+<img alt="Lead Testing Levels" src="/assets/images/lead_level_definitions.png" />
 
 We have re-engineered and updates the guardian's analysis with data up to October 2024, both for the City as a whole but North Lawndale in particular.
 
