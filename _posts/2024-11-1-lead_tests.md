@@ -16,7 +16,9 @@ A 2022 analysis of The City of Chicago’s Lead Water Testing program data by <a
 
 <img alt="Lead Testing Levels" src="/assets/images/lead_level_definitions.png" />
 
-We have re-engineered and updated The Guardian's analysis with data up to October 2024, both for the City as a whole but North Lawndale in particular.
+We have re-engineered and updated The Guardian’s analysis with data on 45k+ home tests from 2016-2024 collected by Chicago Department of Water Management (DWM) on the City of Chicago as a whole and the neighborhood of North Lawndale in particular.
+
+<img alt="Chicago and North Lawndale Lead Testing Levels" src="/assets/images/chicago_nl_lead_comp.png" />
 
 # Lead Water Testing Results Map
 
