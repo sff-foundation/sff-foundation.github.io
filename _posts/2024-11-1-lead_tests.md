@@ -21,7 +21,7 @@ We have re-engineered and updated The Guardian’s analysis with data on 45k+ ho
 <img alt="Chicago and North Lawndale Lead Testing Levels" src="/assets/images/chicago_nl_lead_comp.png" />
 
 # North Lawndale
-## <em>Map of Lead Water Testing Results (2016-2024) by Lead Contamination Rank </em>
+<b><em>Map of Lead Water Testing Results (2016-2024) by Lead Contamination Rank </em></b>
 
 
 <iframe src="/assets/maps/nl_home_lead_water_tests.html" height="700" width="1000"></iframe>
