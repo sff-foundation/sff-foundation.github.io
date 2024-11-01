@@ -17,5 +17,5 @@ We have re-engineered and updates the guardian's analysis with data up to Octobe
 
 # Lead Water Testing Results Map
 
-<iframe src="/assets/maps/nl_home_lead_water_test.html" height="700" width="1000"></iframe>
+<iframe src="/assets/maps/nl_home_lead_water_tests.html" height="700" width="1000"></iframe>
 
