@@ -6,6 +6,7 @@ categories:
   #- Jekyll
 tags:
   #- update
+classes: wide
 ---
 The Neighborhood of North Lawndale has undergone a population decline over the last decade. How and where is the population declining, where is it staying stable, and where is it growing? 
 
