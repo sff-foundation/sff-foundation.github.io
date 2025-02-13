@@ -1,7 +1,7 @@
 ---
 title:  "North Lawndale: Historical Shooting Trends: Fatal & Non-Fatal Shootings from 1991-2024"
 header:
-  teaser: "/assets/maps/fatal_shootings_by_period.png"
+  teaser: "/assets/maps/nl_fatal_shootings_by_period.png"
 categories: 
   #- Jekyll
 tags:
