@@ -54,3 +54,8 @@ Beyond looking at the total trends of shooting violence in North Lawndale, a que
 The heatmap reveals a number of clustered shootings across North Lawndale on the north side at the W Roosevelt Rd & S Avers and W 13th St & S Lawndale intersections. These shooting clusters continue hugging down the west side of Douglass Park at the W Douglas Blvd & Homan St intersection down to a line of three clusters extending across W 16th from Ridegway to Spalding.  Two other larger clusters can be detected nearby heading West down Ogden at the S Trumbull & W 21st St and W Cermak & S Kolin intersection.   
 </p>
 <iframe src="/assets/maps/nl_shooting_heatmap.html" height="700" width="1000"></iframe>
+
+<p>
+<b>Discussion</b><br>
+The Steans Family Foundation’s goal for the next ten years is to achieve parity with the City of Chicago and reduce North Lawndale’s shooting rate to 12 shootings per 10k residents, or down to the equivalent of 40 total shootings annually. To do so requires that we understand what was happening between 2014-2016 and 2019-2021 to cause such massive increases in shootings? How did these surges differ? What happened in 2016-2019 and 2021-2024 to lower the number of annual shootings from these historic peaks? What causes of shooting violence are not being met, or have changed between periods of violence?   
+</p>
