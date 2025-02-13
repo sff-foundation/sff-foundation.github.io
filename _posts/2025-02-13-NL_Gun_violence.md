@@ -45,7 +45,7 @@ From 2010 to 2024, North Lawndale saw an all-time low of 83 annual shootings in 
 The below figure looks at how the rate of shootings per 10,000 residents has changed from 2010-2024, with the population of North Lawndale used to compute this rate being provided by ACS 5-year estimates for each year in the dataset, aside from 2024 which uses the 2023 population estimate. The City of Chicago’s Rate of Shooting is 12 shootings per 10,000 residents, whereas North Lawndale has seen that number as high as 85.3 in 2016 and as low as 24.8 shootings in 2014. The below graph shows, despite surges in 2015-16 and 2019-2021, that North Lawndale has been hovering around a shooting rate of roughly 50 shootings per 10,000 residents. 
 </p>
 
-<iframe src="/assets/maps/shooting_rate_per_10k_10-24.html" height="600" width="1200"></iframe>
+<iframe src="/assets/maps/shooting_rate_per_10k_10-24.html" height="700" width="1100"></iframe>
 
 <p>
 Beyond looking at the total trends of shooting violence in North Lawndale, a question that arises is how has the geography of shooting crimes changes over the past 30 years? Are we seeing the same areas have the same problem, or are we seeing an evolution in the distribution and locations of this violence? Below is a heatmap of all shootings Fatal & Non-Fatal between 1991-2024, with the caveat that for the years 1991-2009 only “Fatal Shooting” data was available.
