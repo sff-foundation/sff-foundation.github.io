@@ -8,9 +8,11 @@ tags:
   #- update
 classes: wide
 ---
-With the bankruptcy of one of the largest landlords in Chicago, 800 properties are now available for sale across the City’s West and South Sides, including a number of properties in North Lawndale. Dubbed as “One of the largest land acquisition opportunities in Chicago’s recent history”, many parties across the city see it as a “prime opportunity to capitalize on revitalization efforts to contribute to vibrant, evolving communities”. 
+With the bankruptcy of one of the largest landlords in Chicago, 800 properties are now available for sale across the City’s West and South Sides, including a number of properties in North Lawndale. Dubbed as “One of the largest land acquisition opportunities in Chicago’s recent history”, many parties across the city see it as a “prime opportunity to capitalize on revitalization efforts to contribute to vibrant, evolving communities”.
+
 The Steans Family Foundation (SFF) sees it as an opportunity to launch our housing efforts in this vein, hoping to identify clusters of properties to potentially put together 20 plus properties in our violence hotspots quickly for housing development. To aid in this goal, I have looked at which bankrupt properties offered by Hilco Real Estate are in North Lawndale and mapped it alongside available Land Bank and City of Chicago properties to see if we can combine those properties with the higher priority properties to have a block-by-block strategy where we may be able to find four blocks together where we would potentially start and then expand from there.  
-Tp this end, I have provided an interactive map below for you to use to explore possibilities and come to your own conclusions.
+
+To this end, I have provided an interactive map below for you to use to explore possibilities and come to your own conclusions.
 
 # Bankrupt Parcels for Acquisition Map
 
