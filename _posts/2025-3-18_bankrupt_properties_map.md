@@ -26,5 +26,5 @@ Three map Layers:
   - Underlying Parcels from ChiBlock Builder, Cook County Land Bank, Hilco Real Estate's listings of available bankrupt properties with underlying Address,ownership type, and other information.
 - Merged Parcels
   - Layer of above individual parcels merged if they were touching. Provides area in acres of merged parcels to help identify large groupings of publicly owned city parcels for development.   
-  Bankrupt Parcels 
+- Bankrupt Parcels 
   -  Hilco Real Estate's listings of available bankrupt properties
