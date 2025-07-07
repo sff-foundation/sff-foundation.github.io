@@ -12,5 +12,5 @@ Data provided by UIC Great Cities Institute. The interactive map below provides 
 
 # NL Businesses Map
 
-<iframe src="/assets/maps/nl_busineses_map.html" height="700" width="1000"></iframe>
+<iframe src="/assets/maps/nl_businesses_map.html" height="700" width="1000"></iframe>
 
