@@ -14,7 +14,7 @@ To guide the selection of which properties would make sense to aqcuire, I have m
 
 To this end, I have provided an interactive map below for you to use to explore possibilities and come to your own conclusions.
 
-# CCLB Parcels for Acquisition Map (Updated:10/15/25)
+# CCLB Parcels for Acquisition Map (Updated:10/16/25)
 
 <iframe src="/assets/maps/cclb_vacant_universe_overlay_map_alt.html" height="700" width="1000"></iframe>
 
